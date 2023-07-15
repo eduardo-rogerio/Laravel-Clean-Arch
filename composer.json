@@ -31,7 +31,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Tests\\MiniLeanpub\\": "mini-leanpub/test"
+            "Tests\\MiniLeanpub\\": "mini-leanpub/tests"
         }
     },
     "scripts": {
